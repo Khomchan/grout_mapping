@@ -1,5 +1,7 @@
 # Tunnelingly
 
-Tunnelingly version 1.0.0 is an user-interpreted web application for plotting data including rock types, Rock Mass Rating (RMR),
-grout consumption, overburden and grouting pressure in tunnels.
+Tunnelingly is an user-interpreted application for data plotting including rock types, Rock Mass Rating (RMR),
+grout consumption, overburden and grouting pressure in tunnel construction.
+
+___
 
