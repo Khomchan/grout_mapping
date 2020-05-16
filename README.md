@@ -14,7 +14,7 @@ ___
 
 ### Web application style
 
-For a full web application, you can visit <a href="http://www.tunnelingly.com/" target="_blank">Tunnelingly</a>. On the website, you don't need to run any code to build the tunnel model. Just download .xlsx file then save it into .csv file, upload .csv file to the website. The website will generate a model itself.
+For a full web application, you can visit <a href="http://www.tunnelingly.com/" target="_blank">Tunnelingly</a>. On the website, you don't need to run any code to build the tunnel model. Just download .xlsx file from <a href="http://www.tunnelingly.com/build" target="_blank">Build page</a> then save it into .csv file, upload .csv file to the website. The website will generate a model itself.
 
 This is a <a href="http://www.tunnelingly.com/guide">Guide</a> for the data structure on web application.
 
