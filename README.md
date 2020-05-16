@@ -1,11 +1,11 @@
 # Tunnelingly
 
-![alt text](https://raw.githubusercontent.com/Khomchan/Coursera_Capstone/master/mainpage%20lunch.jpg?token=AIYYB5ILL6KJLPF3UGL75YC6YAHQI )
+<img src="https://raw.githubusercontent.com/Khomchan/Coursera_Capstone/master/mainpage%20lunch.jpg?token=AIYYB5KJFB4ASVDLOZG7EF26YALCQ">
 
 Tunnelingly was estabished in May 2019, user-interpreted application for data plotting including rock types, Rock Mass Rating (RMR),
 grout consumption, overburden, and grouting pressure in tunnel construction.
 
-For a full web application, you can visit [Tunnelingly](http://www.tunnelingly.com/). On the website, you don't need to run any code to build the tunnel model. Just download .xlsx file then save it into .csv file, upload .csv file to the website. The website will generate a model itself.
+For a full web application, you can visit <a href="http://www.tunnelingly.com/" target="_blank">Tunnelingly</a>. On the website, you don't need to run any code to build the tunnel model. Just download .xlsx file then save it into .csv file, upload .csv file to the website. The website will generate a model itself.
 
 ___
 
@@ -21,4 +21,4 @@ Best Regards,
 
 Khomchan
 
-![alt text](https://raw.githubusercontent.com/Khomchan/Coursera_Capstone/master/showcase.jpg?token=AIYYB5OLUHMLU44TPUG7LSS6YAHXS)
+<img src="https://raw.githubusercontent.com/Khomchan/Coursera_Capstone/master/showcase.jpg?token=AIYYB5MNGGSRMPZNQBNDND26YALEI">
