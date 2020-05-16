@@ -5,7 +5,18 @@
 Tunnelingly was estabished in May 2019, user-interpreted application for data plotting including rock types, Rock Mass Rating (RMR),
 grout consumption, overburden, and grouting pressure in tunnel construction.
 
+Two ways to use this application including:
+
+1. Web application
+
+2. Coding
+___
+
+Web application
+
 For a full web application, you can visit <a href="http://www.tunnelingly.com/" target="_blank">Tunnelingly</a>. On the website, you don't need to run any code to build the tunnel model. Just download .xlsx file then save it into .csv file, upload .csv file to the website. The website will generate a model itself.
+
+This is a <a href="http://www.tunnelingly.com/guide" target="_blank">Guide</a> for the data structure
 
 ___
 
