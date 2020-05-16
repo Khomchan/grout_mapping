@@ -38,7 +38,9 @@ Also, you can use this <a href="http://www.tunnelingly.com/guide">Guide</a> for 
 
 *Bar graph: (color display the rock type) and (bar height shows overburden from the surface).*
 
-*3D Scatter plot: distance between dot and tunnel surface represent the pressure volume.*
+*3D Scatter plot: distance between dot and tunnel surface represent the pressure volume / the number on scatter ring shows the segment number.*
+
+*Black arrow: tunnel direction.*
 
 <img src="https://github.com/Khomchan/Coursera_Capstone/blob/master/example.JPG">
 
