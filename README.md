@@ -2,7 +2,7 @@
 
 <img src="https://github.com/Khomchan/Coursera_Capstone/blob/master/mainpage%20lunch.jpg">
 
-Tunnelingly was estabished in May 2019, user-interpreted application for data plotting including rock types, Rock Mass Rating (RMR),
+Tunnelingly was estabished in October 2019, user-interpreted application for data plotting including rock types, Rock Mass Rating (RMR),
 grout consumption, overburden, and grouting pressure in tunnel construction.
 
 Two ways to use this application including:
