@@ -12,7 +12,7 @@ Two ways to use this application including:
 2. Coding
 ___
 
-Web application style
+### Web application style
 
 For a full web application, you can visit <a href="http://www.tunnelingly.com/" target="_blank">Tunnelingly</a>. On the website, you don't need to run any code to build the tunnel model. Just download .xlsx file then save it into .csv file, upload .csv file to the website. The website will generate a model itself.
 
@@ -20,7 +20,7 @@ This is a <a href="http://www.tunnelingly.com/guide">Guide</a> for the data stru
 
 ___
 
-Coding style
+### Coding style
 
 This repository has only one <a href="https://github.com/Khomchan/tunnelingly/blob/master/Tunnelingly.ipynb" target="_blank">Jupyter Notebook file</a> that include a raw code to generate a model. You can use this code to run in Jupyter Notebook, the system will generate .html file to access the model on another page.
 
