@@ -36,7 +36,7 @@ Also, you can use this <a href="http://www.tunnelingly.com/guide">Guide</a> for 
 
 *Blue line with dot: Grouting Consumption.*
 
-*Bar graph: (color display the rock type) and (bar height shows overburden from the surface).*
+*Bar graph: color display the rock type / bar height shows overburden from the surface.*
 
 *3D Scatter plot: distance between dot and tunnel surface represent the pressure volume / the number on scatter ring shows the segment number.*
 
