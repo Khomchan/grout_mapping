@@ -29,6 +29,19 @@ The image has below shown the data structure, that you can adjust it follow your
 <img src="https://github.com/Khomchan/Coursera_Capstone/blob/master/data_structure.JPG">
 
 Also, you can use this <a href="http://www.tunnelingly.com/guide">Guide</a> for the data structure on the coding style.
+
+#### This is an example when your model be generated!
+
+*Red line: RMR score.*
+
+*Blue line with dot: Grouting Consumption.*
+
+*Bar graph: (color display the rock type) and (bar height shows overburden from the surface).*
+
+*3D Scatter plot: distance between dot and tunnel surface represent the pressure volume.*
+
+<img src="https://github.com/Khomchan/Coursera_Capstone/blob/master/example.JPG">
+
 ___
 
 I used to work as a Site Engineer for water-diversion tunnel construction at Chiang Mai, Thailand with Unique Engineering and Construction PLC in 2017
