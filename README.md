@@ -1,6 +1,6 @@
 # Tunnelingly
 
-<img src="https://raw.githubusercontent.com/Khomchan/Coursera_Capstone/master/mainpage%20lunch.jpg?token=AIYYB5KJFB4ASVDLOZG7EF26YALCQ">
+<img src="https://github.com/Khomchan/Coursera_Capstone/blob/master/mainpage%20lunch.jpg">
 
 Tunnelingly was estabished in May 2019, user-interpreted application for data plotting including rock types, Rock Mass Rating (RMR),
 grout consumption, overburden, and grouting pressure in tunnel construction.
@@ -12,12 +12,23 @@ Two ways to use this application including:
 2. Coding
 ___
 
-Web application
+Web application style
 
 For a full web application, you can visit <a href="http://www.tunnelingly.com/" target="_blank">Tunnelingly</a>. On the website, you don't need to run any code to build the tunnel model. Just download .xlsx file then save it into .csv file, upload .csv file to the website. The website will generate a model itself.
 
-This is a <a href="http://www.tunnelingly.com/guide" target="_blank">Guide</a> for the data structure
+This is a <a href="http://www.tunnelingly.com/guide">Guide</a> for the data structure on web application.
 
+___
+
+Coding style
+
+This repository has only one <a href="https://github.com/Khomchan/tunnelingly/blob/master/Tunnelingly.ipynb" target="_blank">Jupyter Notebook file</a> that include a raw code to generate a model. You can use this code to run in Jupyter Notebook, the system will generate .html file to access the model on another page.
+
+The image has below shown the data structure, that you can adjust it follow your data from the construction site.
+
+<img src="https://github.com/Khomchan/Coursera_Capstone/blob/master/data_structure.JPG">
+
+Also, you can use this <a href="http://www.tunnelingly.com/guide">Guide</a> for the data structure on the coding style.
 ___
 
 I used to work as a Site Engineer for water-diversion tunnel construction at Chiang Mai, Thailand with Unique Engineering and Construction PLC in 2017
@@ -32,4 +43,4 @@ Best Regards,
 
 Khomchan
 
-<img src="https://raw.githubusercontent.com/Khomchan/Coursera_Capstone/master/showcase.jpg?token=AIYYB5MNGGSRMPZNQBNDND26YALEI">
+<img src="https://github.com/Khomchan/Coursera_Capstone/blob/master/showcase.jpg">
